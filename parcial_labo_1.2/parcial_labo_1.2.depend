@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1603672338 source:c:\utn\labo 1\codeblock\parcial_labo_1.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"mascota.h"
+	"input.h"
+	"servicio.h"
+	"fecha.h"
+	"trabajo.h"
+
+1603484274 source:c:\utn\labo 1\codeblock\parcial_labo_1.2\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"color.h"
+
+1603477334 source:c:\utn\labo 1\codeblock\parcial_labo_1.2\fecha.c
+
+1603646574 source:c:\utn\labo 1\codeblock\parcial_labo_1.2\input.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"input.h"
+
+1603662873 source:c:\utn\labo 1\codeblock\parcial_labo_1.2\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"tipo.h"
+	"mascota.h"
+	"input.h"
+
+1603672149 source:c:\utn\labo 1\codeblock\parcial_labo_1.2\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicio.h"
+
+1603484317 source:c:\utn\labo 1\codeblock\parcial_labo_1.2\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"tipo.h"
+
+1603671943 source:c:\utn\labo 1\codeblock\parcial_labo_1.2\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"trabajo.h"
+	"mascota.h"
+	"color.h"
+	"tipo.h"
+
+1603487322 c:\utn\labo 1\codeblock\parcial_labo_1.2\mascota.h
+	"color.h"
+	"tipo.h"
+
+1603484274 c:\utn\labo 1\codeblock\parcial_labo_1.2\color.h
+
+1603647490 c:\utn\labo 1\codeblock\parcial_labo_1.2\input.h
+
+1603484317 c:\utn\labo 1\codeblock\parcial_labo_1.2\tipo.h
+
+1603494782 c:\utn\labo 1\codeblock\parcial_labo_1.2\servicio.h
+
+1603671923 c:\utn\labo 1\codeblock\parcial_labo_1.2\trabajo.h
+	"fecha.h"
+	"servicio.h"
+	"mascota.h"
+	"color.h"
+	"tipo.h"
+
+1603483741 c:\utn\labo 1\codeblock\parcial_labo_1.2\fecha.h
+
